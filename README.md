@@ -3,8 +3,6 @@
 ## Usage
 
 ```shell
-brew tap avalanche123/rpmbuild
-brew install rpm
+brew tap zcourts/rpmbuild
+brew install rpmbuild
 ```
-
-Cheers!
