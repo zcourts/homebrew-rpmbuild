@@ -1,6 +1,6 @@
 require 'formula'
 
-class Rpm < Formula
+class Rpmbuild < Formula
   homepage 'http://www.rpm.org/'
   url 'http://rpm.org/releases/rpm-4.10.x/rpm-4.10.0.tar.bz2'
   sha1 'd78f19194066c3895f91f58dc84e3aad69f0b02c'
